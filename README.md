@@ -3,8 +3,6 @@
 ### 🧒🏽 Bio
 My name is Elem Bernardi Marafigo, I'm a 23 year old woman from Florianópolis-SC, Brazil. I'm currently a 3D modeling student at [Epic School Floripa](https://epicschool.com.br/) and have concluded the course's Adobe Softwers modules. I started to get interested in coding in 2022 when I took an online course at [MicrocampOn](https://microcamp.eadplataforma.app/) and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
 
-<img height="180cm" width="200cm" src="https://github.com/elem3d/img/blob/main/octocat-1698889785678.png" />
-
 ### 👩🏽‍🎓 Academics
 
 Sanitation Technician - [IFSC](https://www.ifsc.edu.br/)  |  Pedagogy (incompleat) - [UFSC](https://ufsc.br/)
