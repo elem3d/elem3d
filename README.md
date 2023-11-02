@@ -53,32 +53,19 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 <p align="center">
 <b>FAVORITE EMOJI: 😜</b>
 </p>
-
-<p align="center">
-<b>FAVORITE FOODS:</b>
-</p>
-
-<p align="center">
-🍕Pizza 🍛Brazilian Strogonoff 🍣Sushi 
- <p align="center">
-🍫Anything Chocolate related
   
 <p align="center">
-<b>FAVORITE GAMES:</b>
+<b>CURRENT FAVORITE GAMES:</b>
 </p>
 
 <p align="center">
 🏝Spirit Island 👑Two Crowns 🎲RPG campains
 
 <p align="center">
-<b>FAVORITE BOOK SERIES:</b>
+<b>CURRENTLY READING:</b>
 </p>
 <p align="center">
-📗The Land of Elyon 
-📘Miss Peregrin's Home for Peculiar Children 
-<p align="center">
-📙Percy Jackson and The Olimpians + Heros of Olimpus 
-📕Love Comes Softly
+📘Hollow Citty: The Second Novel of Miss Peregrine's Peculiar Children by Ransom Riggs
 </p>
 
 <!---
