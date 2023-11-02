@@ -15,16 +15,19 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 <p align="center">
 <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=elem3d&show_icons=true&theme=radical&rank_icon=github&card_width=150&border_radius=15&card" />
  <a href="https://git.io/streak-stats"><img height="150cm" src="https://streak-stats.demolab.com?user=elem3d&theme=radical&border_radius=15&exclude_days=Sun&card_width=350" alt="GitHub Streak" /></a>
-<img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elem3d&layout=compact" />
+<img height="200cm" width="350cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elem3d&layout=compact" />
 </p>
 </div>
 
 ### 🔌 Let's get conected
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elem3d/)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elem-bernardi-marafigo-4b13a8298/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCch3yHMRzz0i22n9yEvHhjQ)
-[<img alt="DIO-profile" height="28" width="100" src="https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png" />](https://www.dio.me/users/elem_marafigo)
+[![INSTAGRAM](https://img.shields.io/badge/instagam-purpleyellow?style=for-the-badge&logo=instagram&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.instagram.com/elem3d/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-purpleyellow?style=for-the-badge&logo=linkedin&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.linkedin.com/in/elem-bernardi-marafigo-4b13a8298/)
+[![GITHUB](https://img.shields.io/badge/GitHub-purpleyellow?style=for-the-badge&logo=github&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](+https://github.com/elem3d)
+[![YOUTUBE](https://img.shields.io/badge/youtube-purpleyellow?style=for-the-badge&logo=youtube&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.youtube.com/channel/UCch3yHMRzz0i22n9yEvHhjQ)
+[![EMAIL](https://img.shields.io/badge/gmail-purpleyellow?style=for-the-badge&logo=gmail&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](mailto:elem.marafigo@gmail.com)
+[<img alt="DIO-profile" height="20" width="60" src="https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000051657/57a99613-e158-472a-8037-77895ee89923.png" />](https://www.dio.me/users/elem_marafigo)
+
 
 
 # 🐱‍👓 Fun Facts 🐱‍💻
