@@ -13,9 +13,8 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 
 <div>
 <p align="right">
-<img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elem3d&layout=compact" />
- 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=elem3d&show_icons=true&theme=radical&rank_icon=github" />
+<img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elem3d&layout=compact" />
 </p>
 </div>
 
