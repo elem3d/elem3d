@@ -5,7 +5,7 @@ My name is Elem Bernardi Marafigo, I'm a 23 year old woman from Florianópolis-S
 
 ### 👩🏽‍🎓 Academics
 
-Sanitation Technician - [IFSC](https://www.ifsc.edu.br/)  |  Pedagogy (incompleat) - [UFSC](https://ufsc.br/)
+Sanitation Technician - [IFSC](https://www.ifsc.edu.br/)  |  Pedagogy (incomplete) - [UFSC](https://ufsc.br/)
 
 ### 👩🏽‍💻 About Code
 
@@ -36,13 +36,13 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 😸 I'm a cat lover! 🐈
 </p>
 <p align="center">
-💒 I'm an active catholic christian
+💒 I'm an active Catholic Christian
  </p>
 <p align="center">
-🧠🌈 I'm a nerodiverse person with DID
+🧠🌈 I'm a neurodiverse person with DID
 
 <p align="center">
-<b>🤹🏽‍♀️ Hobbys:</b>
+<b>🤹🏽‍♀️ Hobbies:</b>
 </p>
 <p align="center">
 🎮Games (including board games) 📖Reading 🎨Watercolor
@@ -63,13 +63,13 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 </p>
 
 <p align="center">
-🏝Spirit Island 👑Two Crowns 🎲RPG campains
+🏝Spirit Island 👑Two Crowns 🎲RPG campaigns
 
 <p align="center">
 <b>CURRENTLY READING:</b>
 </p>
 <p align="center">
-📘Hollow Citty: The Second Novel of Miss Peregrine's Peculiar Children by Ransom Riggs
+📘Hollow City: The Second Novel of Miss Peregrine's Peculiar Children by Ransom Riggs
 </p>
 
 <!---
