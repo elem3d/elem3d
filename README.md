@@ -1,7 +1,12 @@
-# 👋 Hi there!
+# Elem Bernardi Marafigo
 
-### 🧒🏽 Bio
-My name is Elem Bernardi Marafigo, I'm a 23 year old woman from Florianópolis-SC, Brazil. I'm currently a 3D modeling student at [Epic School Floripa](https://epicschool.com.br/) and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at [MicrocampOn](https://microcamp.eadplataforma.app/) and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
+<div>
+   <img align="left" height="120cm" width="100cm" src="https://github.com/elem3d/img/blob/main/Hi-there_Asuna-Watase.gif" />
+   <h3><b><i>&nbsp&nbspHelllo there!</i></b></h3>
+   🧒🏽 I'm a 23 year old woman from Florianópolis-SC, Brazil. I'm currently a 3D modeling student at
+</div>
+
+[Epic School Floripa](https://epicschool.com.br/) and have concluded the course's Adobe Softwears modules. I'm currently a 3D modeling student at [Epic School Floripa](https://epicschool.com.br/) and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at [MicrocampOn](https://microcamp.eadplataforma.app/) and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
 
 ### 👩🏽‍🎓 Academics
 
@@ -25,7 +30,7 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-purpleyellow?style=for-the-badge&logo=linkedin&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.linkedin.com/in/elem-bernardi-marafigo-4b13a8298/)
 [![GITHUB](https://img.shields.io/badge/GitHub-purpleyellow?style=for-the-badge&logo=github&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](+https://github.com/elem3d)
 [![YOUTUBE](https://img.shields.io/badge/youtube-purpleyellow?style=for-the-badge&logo=youtube&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](https://www.youtube.com/channel/UCch3yHMRzz0i22n9yEvHhjQ)
-[![EMAIL](https://img.shields.io/badge/gmail-purpleyellow?style=for-the-badge&logo=gmail&logoColor=%23F7F011&labelColor=%231C0030&color=%231C0030)](mailto:elem.marafigo@gmail.com)
+
 [<img alt="DIO-profile" height="20" width="60" src="https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000051657/57a99613-e158-472a-8037-77895ee89923.png" />](https://www.dio.me/users/elem_marafigo)
 
 
@@ -36,10 +41,14 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 😸 I'm a cat lover! 🐈
 </p>
 <p align="center">
-💒 I'm an active Catholic Christian
+✡ My name means "silent" in Hebrew 
+<img height="18cm" width="40" src="https://github.com/elem3d/img/blob/main/Meu-nome-em-hebraico.jpg" />
+</p>
+<p align="center">
+💒 I'm an active Catholic Christian ✝
  </p>
 <p align="center">
-🧠🌈 I'm a neurodiverse person with DID
+🌈 I'm a neurodiverse person with DID 🧠
 
 <p align="center">
 <b>🤹🏽‍♀️ Hobbies:</b>
