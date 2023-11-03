@@ -8,7 +8,7 @@
 
 
 <p>|&nbsp&nbspand have concluded the course's Adobe Softwears &nbsp |&nbsp&nbspmodules. I'm currently a 3D modeling student at </p>
-<a href="https://epicschool.com.br/">Epic School Floripa</a> and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at [MicrocampOn](https://microcamp.eadplataforma.app/) and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
+<a href="https://epicschool.com.br/">Epic School Floripa</a> and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at <a href="https://microcamp.eadplataforma.app/">MicrocampOn</a> and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
 
 
 ### 👩🏽‍🎓 Academics
