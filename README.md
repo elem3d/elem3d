@@ -1,7 +1,7 @@
 # Elem Bernardi Marafigo
 
 <div>
-   <img align="left" height="120cm" width="100cm" src="https://github.com/elem3d/img/blob/main/Hi-there_Asuna-Watase.gif" />
+   <img align="left" height="120cm" width="100cm" src="https://github.com/elem3d/img/blob/main/Hi-there_Asuna-Watase.gif" /> &nbsp
    <h3><b><i>&nbsp&nbspHelllo there!</i></b></h3>
    |&nbsp&nbsp🧒🏽 I'm a 23 year old woman from Florianópolis-SC, Brazil.&nbsp |&nbsp&nbspI'm currently a 3D modeling student at <a href="https://epicschool.com.br/">Epic School Floripa</a>
 </div>
