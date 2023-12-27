@@ -3,12 +3,11 @@
 <div>
    <img align="left" height="120cm" width="100cm" src="https://github.com/elem3d/img/blob/main/Hi-there_Asuna-Watase.gif" />
    <h3><b><i>&nbsp&nbspHelllo there!</i></b></h3>
-   |&nbsp&nbsp🧒🏽 I'm a 23 year old woman from Florianópolis-SC, Brazil.&nbsp |&nbsp&nbspI'm currently a 3D modeling student at <a href="https://epicschool.com.br/">Epic School Floripa</a>
+   |&nbsp&nbsp🧒🏽 I'm a 24 year old woman from Florianópolis-SC, Brazil.&nbsp |&nbsp&nbspI'm currently a 3D modeling student at <a href="https://epicschool.com.br/">Epic School Floripa</a>
 </div>
 
 
-<p>|&nbsp&nbspand have concluded the course's Adobe Softwears &nbsp |&nbsp&nbspmodules. I'm currently a 3D modeling student at </p>
-<a href="https://epicschool.com.br/">Epic School Floripa</a> and have concluded the course's Adobe Softwears modules. I started to get interested in coding in 2022 when I took an online course at <a href="https://microcamp.eadplataforma.app/">MicrocampOn</a> and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
+<p>|&nbsp&nbspand have concluded the course's Adobe Softwears &nbsp <p/> I started to get interested in coding in 2022 when I took an online course at <a href="https://microcamp.eadplataforma.app/">MicrocampOn</a> and had my first contact with programming using nodes in Unreal4. I'm mostly interested in Game Development, but am curious about Computer Science and most programming languages.
 
 
 ### 👩🏽‍🎓 Academics
@@ -81,7 +80,7 @@ I’m a total newb, but am eager to learn more! Currently I'm learning C with [C
 <b>CURRENTLY READING:</b>
 </p>
 <p align="center">
-📘Hollow City: The Second Novel of Miss Peregrine's Peculiar Children by Ransom Riggs
+📘The Cat Who Saved Books: A Novel by Sosuke Natsukawa
 </p>
 
 <!---
